@@ -236,3 +236,5 @@ TimeGenerated,IoC,IoC_Type,ExpirationDateTime,Description,Action,ConfidenceScore
 4/14/2022,beendos.com,domainname,9/10/2022,"Carmine Tsunami: Quadream's ""KingsPawn"" malware used to target civil society",Alert,100,Mobile Malware,TRUE,Rapid Release TI,Clear,Carmine Tsunami
 7/1/2022,linestrip.online,domainname,9/7/2022,"Carmine Tsunami: Quadream's ""KingsPawn"" malware used to target civil society",Alert,100,Mobile Malware,TRUE,Rapid Release TI,Clear,Carmine Tsunami
 7/1/2022,sunnyweek.site,domainname,9/7/2022,"Carmine Tsunami: Quadream's ""KingsPawn"" malware used to target civil society",Alert,100,Mobile Malware,TRUE,Rapid Release TI,Clear,Carmine Tsunami
+6/22/2023,facebook.com,domainname,9/7/2022,"Carmine Tsunami: Quadream's ""KingsPawn"" malware used to target civil society",Alert,100,Mobile Malware,TRUE,Rapid Release TI,Clear,Carmine Tsunami
+
